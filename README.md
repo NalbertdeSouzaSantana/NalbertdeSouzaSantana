@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 Sobre mim
-- 📊 Buscando carreira como **Analista de Dados**, **Cientista de Dados** ou **Consultor de Dados**
+- 📊 Buscando atualmente estágio na área de **Sistemas de Informação**
 - 💡 Curto estudar e explorar diversas ferramentas de desenvolvimento
 - 🧠 Interesses: dados, jogos, produção e automação
 
