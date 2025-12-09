@@ -24,7 +24,7 @@
 
 ---
 
-## 🛠️ Tecnologias que uso
+## 🛠️ Tecnologias
 <div>
   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
